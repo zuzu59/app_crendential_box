@@ -11,7 +11,7 @@ Ce petit Hello World en NodeJS pour présenter la mise en oeuvre du principe.
 Bien entendu, c'est aussi possible de l'appliquer pour d'autres langages !
 
 ### Installation:
-**npm install**
+**``npm install``**
 
 ### Utilisation:
 **``nodemon --inspect index.js``**
