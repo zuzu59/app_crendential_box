@@ -14,7 +14,7 @@ Bien entendu, c'est aussi possible de l'appliquer pour d'autres langages !
 **npm install**
 
 ### Utilisation:
-**nodemon --inspect index.js**
+**``nodemon --inspect index.js``**
 
 
 
