@@ -1,6 +1,6 @@
 //app_crendential_box
 //Petit Helloworld en nodejs pour tester l'Aplication Credential Box en NodeJS
-//zf170417.1602
+//zf170418.1640
 //MIT License
 //Copyright (c) 2017 christian@zufferey.com
 
@@ -15,7 +15,7 @@ var secrets = require('../app_crendential_box.credentials.js')
 app.get('/', function(req, res) {
   text = ""
   result = titi.tata(33, 3)
-  text = "<p>Hello World! <br> ça marche en remote 170417.1604.<p>"
+  text = "<p>Hello World! <br> ça marche en remote 170417.1604.</p>"
   text += "<p>Les credentials sont:<br>Username: " + secrets.username + "<br>Password: " + secrets.password + "</p>"
 
   if (result < 18) {

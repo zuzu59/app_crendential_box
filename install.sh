@@ -1,6 +1,6 @@
 #!/bin/bash
 #Installation de l'application
-#zf170417.1528
+#zf170418.1623
 
 sudo apt-get update
 
@@ -11,3 +11,5 @@ sudo apt-get install -y build-essential
 sudo apt-get install -y gnupg2
 
 npm install
+
+./acb_uncrypt.sh
