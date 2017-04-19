@@ -23,8 +23,8 @@ Bien entendu, c'est aussi possible de l'appliquer pour d'autres langages !
 **``nodemon --inspect index.js``**
 
 ### Déploiement rapide sur une infra
-wget https://raw.githubusercontent.com/zuzu59/publipost_association/master/acb_crypt.sh
-wget https://raw.githubusercontent.com/zuzu59/publipost_association/master/acb_uncrypt.sh
+``wget https://raw.githubusercontent.com/zuzu59/publipost_association/master/acb_crypt.sh``<br>
+``wget https://raw.githubusercontent.com/zuzu59/publipost_association/master/acb_uncrypt.sh``<br>
 
 
 <br><br>
