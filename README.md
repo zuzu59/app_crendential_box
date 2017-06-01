@@ -1,6 +1,6 @@
 # app_crendential_box (ACB)
 
-## Application Credentials Box
+## Petit *Hello World* pour présenter l'Application Credentials Box (ACB) for NodeJS
 
 Souvent nous devons utiliser des *credentials* (db password, token API REST) dans des applications NodeJS, il n'est alors plus possible de sauver l'application dans un dépôt publique !
 
